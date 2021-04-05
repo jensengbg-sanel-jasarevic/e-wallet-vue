@@ -2,7 +2,6 @@
 
 Du ska bygga en digital plånbok som samlar alla kreditkort. Det ska gå och se sina kreditkort samt lägga till ett nytt.
 
-
 **Figmaskiss:** https://www.figma.com/file/G4ep4nWFUplM8kXEntq83C/E-Wallet?node-id=11%3A2
 
 ## Instruktioner
